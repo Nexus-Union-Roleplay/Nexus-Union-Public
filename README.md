@@ -2,7 +2,7 @@
 
 <img src="Nexus_Union_logo.png" alt="Nexus Union logo" width="800">
 
-##🇩🇪 About (Deutsch)
+🇩🇪 About (Deutsch)
 Nexus Union Roleplay ist ein modulares Roleplay‑Framework, das seinen Schwerpunkt auf Erweiterbarkeit, Performance und eine immersive Benutzeroberfläche legt.
 Entwickelt mit C# und modernen Webtechnologien bietet es Kernsysteme wie:
 
@@ -20,7 +20,7 @@ Ziel ist ein stabiles, modernes und zukunftssicheres RP‑Framework für die S&b
 
 ---
 
-##🇬🇧 About (English)
+🇬🇧 About (English)
 Nexus Union Roleplay is a modular roleplay framework focused on extensibility, performance, and an immersive user interface.
 Built with C# and modern web technologies, it provides core systems such as:
 
@@ -45,6 +45,8 @@ The goal is to deliver a stable, modern, and future‑proof RP framework for the
 ---
 
 ## In Arbeit... 🚧
+
+---
 
 ##Work in Progress... 🚧
 

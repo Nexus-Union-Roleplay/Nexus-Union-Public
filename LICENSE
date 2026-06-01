@@ -3,7 +3,11 @@ MIT License Public v1.0
 Copyright (c) 2026 striccer (stricer) / Nexus Union
 
 🇩🇪 Deutsch (Offizielle Version)
-Hiermit wird jeder Person die Erlaubnis erteilt, diese Software zu nutzen, zu kopieren, zu verändern und in eigenen Projekten weiterzuverwenden — sowohl privat als auch kommerziell.
+Hiermit wird jeder Person die Erlaubnis erteilt, einzelne veröffentlichte Module dieser Software zu nutzen, zu kopieren, zu verändern und in eigenen Projekten weiterzuverwenden — sowohl privat als auch kommerziell.
+
+Diese Lizenz gilt ausschließlich für die öffentlich bereitgestellten Teile des Nexus Union Roleplay Frameworks
+(z. B. Admin‑System, Tools oder einzelne Komponenten).
+Der vollständige Framework‑Code bleibt privat und ist nicht Teil dieser Lizenz.
 
 Bedingungen:
 
@@ -13,6 +17,8 @@ Der Name stricer und der Hinweis auf Nexus Union müssen in allen Kopien oder ab
 
 Diese Lizenz darf nicht entfernt oder versteckt werden.
 
+Diese Lizenz gilt nicht für private Framework‑Module, die nicht öffentlich veröffentlicht wurden.
+
 Haftungsausschluss:  
 Diese Software wird „wie gesehen“ bereitgestellt — ohne Garantie oder Anspruch auf Funktionalität, Sicherheit oder Fehlerfreiheit.
 Der Autor (stricer) übernimmt keinerlei Verantwortung für Schäden, Probleme oder Verluste, die durch die Nutzung dieser Software entstehen.
@@ -20,15 +26,21 @@ Der Autor (stricer) übernimmt keinerlei Verantwortung für Schäden, Probleme o
 Durch die Nutzung dieser Software akzeptierst du diese Bedingungen.
 
 🇬🇧 English (Official Translation)
-Permission is hereby granted to any person to use, copy, modify, and integrate this software into their own projects — both private and commercial.
+Permission is hereby granted to any person to use, copy, modify, and integrate individual released modules of this software into their own projects — both private and commercial.
+
+This license applies only to the publicly released parts of the Nexus Union Roleplay Framework
+(e.g., admin system, tools, or individual components).
+The full framework code remains private and is not covered by this license.
 
 Conditions:
 
-The name stricer and the reference to Nexus Union  must remain visible in all copies or derivative works.
+The name stricer and the reference to Nexus Union must remain visible in all copies or derivative works.
 
 Any modifications must be clearly marked.
 
 This license may not be removed or hidden.
+
+This license does not apply to private framework modules that are not publicly released.
 
 Disclaimer:  
 This software is provided “as is,” without warranty of any kind.

@@ -65,7 +65,7 @@ The full framework code remains private and is intended exclusively for the Nexu
 ---
 
 ## In Arbeit... 🚧
-Work in Progress... 🚧
+Work in Progress... 
 
 
 

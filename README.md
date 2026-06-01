@@ -1,6 +1,6 @@
 # Nexus Union
 
-<img src="splash_screen.png" alt="Nexus Union Splash" width="800">
+<img src="Nexus_Union_logo.png" alt="Nexus Union logo" width="800">
 
 **NEXUS UNION DEV — A futuristic roleplay framework for S&box / .NET developers.**
 

@@ -60,7 +60,7 @@ The full framework code remains private and is intended exclusively for the Nexu
 
 ## License
 
-[MIT](LICENSE) - Copyright (c) 2026 striccer (stricer) / Nexus Union 
+[NUPL](LICENSE) - Copyright (c) 2026 striccer (stricer) / Nexus Union 
 
 ---
 

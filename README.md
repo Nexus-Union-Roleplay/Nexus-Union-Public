@@ -15,7 +15,7 @@ Nexus Union Roleplay ist ein modulares Roleplay-Framework, das seinen Schwerpunk
 
 ---
 
-## Der weitere Ablauf folgt demnächst...
+## In Arbeit🚧...
 
 
 

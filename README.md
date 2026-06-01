@@ -13,6 +13,8 @@ Nexus Union Roleplay ist ein modulares Roleplay-Framework, das seinen Schwerpunk
 
 [MIT](LICENSE) - Copyright (c) 2026 striccer (stricer) / Nexus Union 
 
+---
+
 ## Der weitere Ablauf folgt demnächst...
 
 

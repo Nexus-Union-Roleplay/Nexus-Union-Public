@@ -1,4 +1,4 @@
-# Nexus Union
+# Nexus Union Public
 
 <img src="Nexus_Union_logo.png" alt="Nexus Union logo" width="800">
 

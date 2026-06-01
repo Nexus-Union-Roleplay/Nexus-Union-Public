@@ -2,41 +2,57 @@
 
 <img src="Nexus_Union_logo.png" alt="Nexus Union logo" width="1000">
 
-About (Deutsch)
+🇩🇪 Deutsch
 
-Nexus Union Roleplay ist ein modulares Roleplay‑Framework, das seinen Schwerpunkt auf Erweiterbarkeit, Performance und eine immersive Benutzeroberfläche legt.
-Entwickelt mit C# und modernen Webtechnologien bietet es Kernsysteme wie:
+Nexus Union Roleplay ist ein modulares Roleplay‑Framework für S&box, entwickelt mit C#, .NET und modernen Webtechnologien.
+Das Framework enthält alle Kernsysteme, die ein professioneller Roleplay‑Server benötigt, darunter:
 
-Jobs
+Jobsystem
 
-Inventar
-
-Berechtigungen
+Adminsystem
 
 UI‑Framework
 
+Commands
+
+Inventarsystem
+
+Berechtigungen / Permissions
+
+Spieler‑Datenverwaltung
+
 Erweiterbare APIs
 
-Ziel ist ein stabiles, modernes und zukunftssicheres RP‑Framework für die S&box‑Community.
+Das Projekt wird als komplettes Framework entwickelt.
+Nur ausgewählte Module (z. B. das Adminsystem oder einzelne Tools) werden öffentlich veröffentlicht.
+Der vollständige Framework‑Code bleibt privat und ist ausschließlich für das Nexus‑Union‑Entwicklungsteam bestimmt.
 
 ---
 
-About (English)
+🇬🇧 English
 
-Nexus Union Roleplay is a modular roleplay framework focused on extensibility, performance, and an immersive user interface.
-Built with C# and modern web technologies, it provides core systems such as:
+Nexus Union Roleplay is a modular roleplay framework for S&box, built with C#, .NET, and modern web technologies.
+The framework includes all core systems required for a professional roleplay server, such as:
 
-Jobs
+Job system
 
-Inventory
-
-Permissions
+Admin system
 
 UI framework
 
+Commands
+
+Inventory system
+
+Permissions
+
+Player data management
+
 Extendable APIs
 
-The goal is to deliver a stable, modern, and future‑proof RP framework for the S&box community.
+The project is developed as a complete framework.
+Only selected modules (e.g., the admin system or individual tools) will be released publicly.
+The full framework code remains private and is intended exclusively for the Nexus Union development team.
 
 --- 
 

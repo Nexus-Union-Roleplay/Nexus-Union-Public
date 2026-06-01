@@ -2,6 +2,8 @@
 
 <img src="Nexus_Union_dev_logo.png" alt="Nexus Union logo" width="1000">
 
+<img src="Nexus_Union_Roleplay_ROADMAP.png" alt="Nexus Union ROADMAP" width="1000">
+
 🇩🇪 Deutsch
 
 Nexus Union Roleplay ist ein modulares Roleplay‑Framework für S&box, entwickelt mit C#, .NET und modernen Webtechnologien.
@@ -67,7 +69,7 @@ Work in Progress... 🚧
 
 
 
-<img src="Nexus_Union_Roleplay_ROADMAP.png" alt="Nexus Union ROADMAP" width="1000">
+
 
 
 

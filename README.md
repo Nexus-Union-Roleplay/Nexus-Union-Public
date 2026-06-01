@@ -1,6 +1,6 @@
 # Nexus Union Public
 
-<img src="Nexus_Union_logo.png" alt="Nexus Union logo" width="1000">
+<img src="Nexus_Union_dev_logo.png" alt="Nexus Union logo" width="1000">
 
 🇩🇪 Deutsch
 

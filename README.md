@@ -9,7 +9,7 @@
 Nexus Union Roleplay ist ein modulares Roleplay‑Framework für S&box, entwickelt mit C#, .NET und modernen Webtechnologien.
 Das Framework enthält alle Kernsysteme, die ein professioneller Roleplay‑Server benötigt, darunter:
 
-Jobsystem
+Jobsystem 
 
 Adminsystem
 

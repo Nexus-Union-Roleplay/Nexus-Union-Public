@@ -2,7 +2,7 @@
 
 <img src="Nexus_Union_dev_logo.png" alt="Nexus Union logo" width="1000">
 
-<img src="Nexus_Union_Roleplay_ROADMAP_Public.png" alt="Nexus Union ROADMAP" width="3000">
+<img src="Nexus_Union_Roleplay_ROADMAP_Public.png" alt="Nexus Union ROADMAP" width="3000"> 
 
 🇩🇪 Deutsch
 
@@ -65,7 +65,7 @@ The full framework code remains private and is intended exclusively for the Nexu
 ---
 
 ## In Arbeit... 🚧
-Work in Progress... 
+Work in Progress...  
 
 
 

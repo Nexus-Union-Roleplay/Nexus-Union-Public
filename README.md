@@ -2,7 +2,7 @@
 
 <img src="Nexus_Union_dev_logo.png" alt="Nexus Union logo" width="1000">
 
-<img src="Nexus_Union_Roleplay_ROADMAP_Public.png" alt="Nexus Union ROADMAP" width="3000"> 
+<img src="Nexus_Union_Roleplay_ROADMAP_Public.core-0.0.3a" alt="Nexus Union ROADMAP" width="3000"> 
 
 🇩🇪 Deutsch
 
